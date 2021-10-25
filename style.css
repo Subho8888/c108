@@ -1,0 +1,46 @@
+body{
+    
+    font-family: sans-serif;
+    background-color: rgb(255, 97, 97);
+  
+}
+
+.header_div{
+    background-color: rgb(245, 220, 0);
+    color: black;
+    font-family: sans-serif;
+}
+
+.header_div p{
+    font-family: monospace;
+    color: blue;
+    letter-spacing: 2px;
+    font-weight: bold;
+    font-size: 20px;
+
+
+}
+
+.main_div button{
+font-family:cursive;
+margin-top: 30px;
+width: 130px;
+font-weight: bolder;
+letter-spacing: 3px;
+color: rgb(0, 60, 255);
+}
+
+.footer{
+    color: #000000;
+    font-size: 18px;
+    text-align: center;
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+    background-color: #00fd00;
+    line-height: 3;
+    text-shadow: 5px 5px 5px rgb(255, 255, 255);
+}
+h4{
+    font-size: 25px;
+}
